@@ -1,0 +1,3 @@
+## Github command list :
+step 1 : git init 
+step 2 : git add .
